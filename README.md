@@ -17,3 +17,6 @@ This keeps a record of the books read (if you have), and unread(if it is on your
 
 ### [UPDATE]
 
+To Run without Python Installed- Go to dist-->frontend.exe
+
+Main Program: frontend.py
